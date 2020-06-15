@@ -83,6 +83,6 @@ python main.py --video path-do vídio
 
 ## Repositórios de Referência <a name="repositorio-de-referencias"/>
 
-https://github.com/Qidian213/deep_sort_yolov3
-https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch
-http://vips.sci.univr.it/research/fformation/
+https://github.com/Qidian213/deep_sort_yolov3  
+https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch  
+http://vips.sci.univr.it/research/fformation/  
