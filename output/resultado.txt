@@ -1,0 +1,33 @@
+TCC - Detecção e rastreamento de interações sociais
+Autor: Gustavo Alves Moreira
+Instituição: PUC Minas
+Data: Junho 2020
+
+
+Frame 1		Id -1	Grp 0	x 291	y 150	
+Frame 1		Id -1	Grp 0	x 270	y 243	
+Frame 1		Id -1	Grp 0	x 210	y 159	
+Frame 1		Id -1	Grp 0	x 147	y 234	
+Frame 1		Id -1	Grp 0	x 339	y 195	
+
+
+Frame 2		Id -1	Grp 0	x 291	y 147	
+Frame 2		Id -1	Grp 0	x 270	y 243	
+Frame 2		Id -1	Grp 0	x 210	y 159	
+Frame 2		Id -1	Grp 0	x 147	y 234	
+Frame 2		Id -1	Grp 0	x 135	y 186	
+Frame 2		Id -1	Grp 0	x 339	y 195	
+
+
+Frame 3		Id 1	Grp 0	x 210	y 159	
+Frame 3		Id 3	Grp 0	x 270	y 243	
+Frame 3		Id 5	Grp 0	x 291	y 147	
+Frame 3		Id 2	Grp 0	x 126	y 186	
+Frame 3		Id 4	Grp 0	x 339	y 195	
+
+
+
+Tempo total = 41.0345
+FPS Total = 0.07310921297932227
+FPS Pose Estimation = 0.23169295837383078
+FPS Rastreamento = 0.0986197648753456
