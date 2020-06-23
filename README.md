@@ -22,7 +22,7 @@ python main.py --images path-da-imagem1 path-da-imagem2
 
 - Utilizando um vídeo
 ```
-python main.py --video path-do vídio
+python main.py --video path-do-vidio
 ```
 
 ## Informações importantes
